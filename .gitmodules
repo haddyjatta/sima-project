@@ -1,0 +1,11 @@
+[submodule "core/picar-x"]
+	path = core/picar-x
+	url = https://github.com/sunfounder/picar-x.git
+[submodule "core/robot-hat"]
+	path = core/robot-hat
+	url = https://github.com/sunfounder/robot-hat.git
+	branch = v2.0
+[submodule "core/vilib"]
+	path = core/vilib
+	url = https://github.com/sunfounder/vilib.git
+	branch = picamera2
